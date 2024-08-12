@@ -4,7 +4,7 @@
 
 import Foundation
 
-enum ARDB {
+public enum ARDB {
     public struct RawStatScoreModel: Codable, Hashable {
         public typealias Dict = [String: Self]
 
