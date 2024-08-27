@@ -16,10 +16,8 @@ All Swift program files under this repository are licensed under `AGPL-3.0-or-la
 
 Credits for the data model source used against Star Rail:
 
-- **Mobyw**: 
-    - Almost all characters. Consult [this repository](https://github.com/Mar-7th/StarRailScore) for more information.
-- **Shiki Suen** ((c) 2024 and onwards Pizza Studio, MIT License):
-    - Only those latest characters not yet implemented by MobyW. These data usually get replaced by Mobyw's models (when available).
+- **Mobyw** for the method of generating the models.
+- **HoYoVerse** for the initial property-usage-rate data.
 
 Credits for the data model source used against Genshin Impact:
 
