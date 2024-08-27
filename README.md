@@ -8,7 +8,7 @@ Methods used for rating artifacts differ among games:
 
 - Star Rail: See [Mobyw's instructions](https://github.com/Mar-7th/StarRailScore/blob/master/README.md).
 - Genshin Impact: 
-	- While the data models of most characters are from Alice workshop, the method will be replaced by a new one derived from Mobyw's method (mentioned above). This needs extra work since I didn't find the method of calculating the steps of subprops of artifacts in Genshin.
+	- While the data models of most characters are from Alice workshop, the method is exactly the same as Mobyw's method (mentioned above).
 
 ## Credits
 
