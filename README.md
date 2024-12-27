@@ -36,10 +36,10 @@ Credits for the data model source used against Genshin Impact:
 - **Shiki Suen** ((c) 2023 and onwards Pizza Studio, MIT License):
 	- **Protagonists**: Hotaru, Sora.
 	- **Mondstadt**: Eula, Barbara.
-	- **Liyue**: Baizhu, Xinyan, Gaming, Xianyun.
+	- **Liyue**: Baizhu, Xinyan, Gaming, Xianyun, Lan Yan.
 	- **Inazuma**: Kirara.
 	- **Sumeru**: Kaveh, Sethos.
 	- **Fountaine**: Lynette, Freminet, Charlotte, Cheuvreuse, Sigewinne, Emilie.
-	- **Natlan**: Kinich, Mualani, Kachina, Xilonen, Chasca, Ororon.
+	- **Natlan**: Kinich, Mualani, Kachina, Xilonen, Chasca, Ororon, Mavuika, Citlali.
 
 $ EOF.

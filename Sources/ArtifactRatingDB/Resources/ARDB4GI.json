@@ -148,14 +148,14 @@
       "3" : {
         "AttackAddedRatio" : 0.65,
         "DefenceAddedRatio" : 0,
-        "ElementalMastery" : 0.55,
+        "ElementalMastery" : 0.85,
         "HPAddedRatio" : 0,
         "SPRatioBase" : 0.65
       },
       "4" : {
         "AttackAddedRatio" : 0.65,
         "DefenceAddedRatio" : 0,
-        "ElementalMastery" : 0.55,
+        "ElementalMastery" : 0.85,
         "FireAddedRatio" : 1,
         "HPAddedRatio" : 0
       },
@@ -164,7 +164,7 @@
         "CriticalChanceBase" : 1,
         "CriticalDamageBase" : 1,
         "DefenceAddedRatio" : 0,
-        "ElementalMastery" : 0.55,
+        "ElementalMastery" : 0.85,
         "HPAddedRatio" : 0
       }
     },
@@ -176,7 +176,7 @@
       "CriticalDamageBase" : 1,
       "DefenceAddedRatio" : 0,
       "DefenceDelta" : 0,
-      "ElementalMastery" : 0.55,
+      "ElementalMastery" : 0.85,
       "FireAddedRatio" : 1,
       "HPAddedRatio" : 0,
       "HPDelta" : 0,
@@ -562,14 +562,14 @@
       "3" : {
         "AttackAddedRatio" : 0.65,
         "DefenceAddedRatio" : 0,
-        "ElementalMastery" : 0.55,
+        "ElementalMastery" : 0.85,
         "HPAddedRatio" : 0,
         "SPRatioBase" : 0.65
       },
       "4" : {
         "AttackAddedRatio" : 0.65,
         "DefenceAddedRatio" : 0,
-        "ElementalMastery" : 0.55,
+        "ElementalMastery" : 0.85,
         "FireAddedRatio" : 1,
         "HPAddedRatio" : 0
       },
@@ -578,7 +578,7 @@
         "CriticalChanceBase" : 1,
         "CriticalDamageBase" : 1,
         "DefenceAddedRatio" : 0,
-        "ElementalMastery" : 0.55,
+        "ElementalMastery" : 0.85,
         "HPAddedRatio" : 0
       }
     },
@@ -590,7 +590,7 @@
       "CriticalDamageBase" : 1,
       "DefenceAddedRatio" : 0,
       "DefenceDelta" : 0,
-      "ElementalMastery" : 0.55,
+      "ElementalMastery" : 0.85,
       "FireAddedRatio" : 1,
       "HPAddedRatio" : 0,
       "HPDelta" : 0,
@@ -978,7 +978,7 @@
         "DefenceAddedRatio" : 0,
         "ElementalMastery" : 0.85,
         "HPAddedRatio" : 0,
-        "SPRatioBase" : 0
+        "SPRatioBase" : 0.65
       },
       "4" : {
         "AttackAddedRatio" : 0.65,
@@ -1008,7 +1008,7 @@
       "FireAddedRatio" : 1,
       "HPAddedRatio" : 0,
       "HPDelta" : 0,
-      "SPRatioBase" : 0
+      "SPRatioBase" : 0.65
     }
   },
   "10000020" : {
