@@ -40,6 +40,6 @@ Credits for the data model source used against Genshin Impact:
 	- **Inazuma**: Kirara, Mizuki.
 	- **Sumeru**: Kaveh, Sethos.
 	- **Fountaine**: Lynette, Freminet, Charlotte, Cheuvreuse, Sigewinne, Emilie.
-	- **Natlan**: Kinich, Mualani, Kachina, Xilonen, Chasca, Ororon, Mavuika, Citlali.
+	- **Natlan**: Kinich, Mualani, Kachina, Xilonen, Chasca, Ororon, Mavuika, Citlali, Iansan, Varesa.
 
 $ EOF.

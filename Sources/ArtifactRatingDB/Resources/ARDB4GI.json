@@ -5062,5 +5062,97 @@
       "SPRatioBase" : 0.85,
       "WindAddedRatio" : 0.75
     }
+  },
+  "10000110" : {
+    "main" : {
+      "1" : {
+        "HPDelta" : 1
+      },
+      "2" : {
+        "AttackDelta" : 1
+      },
+      "3" : {
+        "AttackAddedRatio" : 1,
+        "DefenceAddedRatio" : 0,
+        "ElementalMastery" : 0.5,
+        "HPAddedRatio" : 0,
+        "SPRatioBase" : 1
+      },
+      "4" : {
+        "AttackAddedRatio" : 1,
+        "DefenceAddedRatio" : 0,
+        "ElementalMastery" : 0.5,
+        "HPAddedRatio" : 0,
+        "ThunderAddedRatio" : 1
+      },
+      "5" : {
+        "AttackAddedRatio" : 1,
+        "CriticalChanceBase" : 1,
+        "CriticalDamageBase" : 1,
+        "DefenceAddedRatio" : 0,
+        "ElementalMastery" : 0.85,
+        "HPAddedRatio" : 0
+      }
+    },
+    "max" : 10,
+    "weight" : {
+      "AttackAddedRatio" : 0.65,
+      "AttackDelta" : 0.45,
+      "CriticalChanceBase" : 1,
+      "CriticalDamageBase" : 1,
+      "DefenceAddedRatio" : 0,
+      "DefenceDelta" : 0,
+      "ElementalMastery" : 0.85,
+      "HPAddedRatio" : 0,
+      "HPDelta" : 0,
+      "SPRatioBase" : 0,
+      "ThunderAddedRatio" : 1
+    }
+  },
+  "10000111" : {
+    "main" : {
+      "1" : {
+        "HPDelta" : 1
+      },
+      "2" : {
+        "AttackDelta" : 1
+      },
+      "3" : {
+        "AttackAddedRatio" : 0.65,
+        "DefenceAddedRatio" : 0,
+        "ElementalMastery" : 0.85,
+        "HPAddedRatio" : 0,
+        "SPRatioBase" : 0
+      },
+      "4" : {
+        "AttackAddedRatio" : 0.65,
+        "DefenceAddedRatio" : 0,
+        "ElementalMastery" : 0.85,
+        "HPAddedRatio" : 0,
+        "ThunderAddedRatio" : 1
+      },
+      "5" : {
+        "AttackAddedRatio" : 0.65,
+        "CriticalChanceBase" : 1,
+        "CriticalDamageBase" : 1,
+        "DefenceAddedRatio" : 0,
+        "ElementalMastery" : 0.85,
+        "HPAddedRatio" : 0
+      }
+    },
+    "max" : 10,
+    "weight" : {
+      "AttackAddedRatio" : 0.65,
+      "AttackDelta" : 0.45,
+      "CriticalChanceBase" : 1,
+      "CriticalDamageBase" : 1,
+      "DefenceAddedRatio" : 0,
+      "DefenceDelta" : 0,
+      "ElementalMastery" : 0.85,
+      "HPAddedRatio" : 0,
+      "HPDelta" : 0,
+      "SPRatioBase" : 0,
+      "ThunderAddedRatio" : 1
+    }
   }
 }
