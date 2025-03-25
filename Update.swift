@@ -70,6 +70,11 @@ let countDBPath = "./Sources/ArtifactRatingDB/Resources/CountDB4GI.json"
 struct ReliquaryAffixExcelConfig: Decodable {
     let id: Int
     let propType: String
+
+    private enum CodingKeys: String, CodingKey {
+        case id = "ELKKIAIGOBK"
+        case propType = "JJNPGPFNJHP"
+    }
 }
 
 do {
