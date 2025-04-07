@@ -1,4 +1,4 @@
-name: Update Data
+name: Update Data (HSR)
 
 on:
     workflow_dispatch: {}
@@ -19,7 +19,7 @@ jobs:
             - name: Update Data
               id: compare_shas
               run: |
-                swift ./Update.swift
+                swift ./UpdateData4HSR.swift
 
             - name: Create Pull Request
               uses: peter-evans/create-pull-request@v3
@@ -27,7 +27,7 @@ jobs:
                 token: ${{ secrets.GITHUB_TOKEN }}
                 branch: update-data-${{ github.run_number }}
                 base: main
-                title: "Update Data"
+                title: "Update Data (HSR)"
                 body: |
                   This PR updates all external data which are CI-updatable.
                 delete-branch: true

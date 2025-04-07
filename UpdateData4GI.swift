@@ -4,6 +4,8 @@
 // ====================
 // This code is released under the SPDX-License-Identifier: `AGPL-3.0-or-later`.
 
+// NOTE: This script only updates the `CountDB4GI.json` file.
+
 import Foundation
 #if canImport(FoundationNetworking)
 import FoundationNetworking
@@ -84,20 +86,6 @@ do {
     let newData = try encoder.encode(result)
     print(String(data: newData, encoding: .utf8)!)
     try newData.write(to: URL(fileURLWithPath: countDBPath), options: .atomic)
-} catch {
-    print(error)
-    exit(1)
-}
-
-// MARK: - Update SRS Data.
-
-let rawSRSURLStr = "https://raw.githubusercontent.com/Mar-7th/StarRailScore/master/score.json"
-let rawSRSURL = URL(string: rawSRSURLStr)!
-let srsDBPath = "./Sources/ArtifactRatingDB/Resources/ARDB4HSR.json"
-
-do {
-    let (data, _) = try await URLSession.shared.asyncData(from: rawSRSURL)
-    try data.write(to: URL(fileURLWithPath: srsDBPath), options: .atomic)
 } catch {
     print(error)
     exit(1)
