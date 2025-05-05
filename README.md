@@ -22,7 +22,6 @@ Credits for the data model source used against Star Rail:
 Credits for the data model source used against Genshin Impact:
 
 - **Wu Xiaoyun** ((c) 2023 and onwards Alice Workshop, MIT License): 
-
 	- **Horizon**: Aloy.
 	- **Mondstadt**: Thoma, Sucrose, Kaeya, Amber, Lisa, Venti, Klee, Jean, Diluc, Bennett, Fischl, Albedo, Mona, Rosaria, Diona, Mika, Razor, Noelle.
 	- **Liyue**: Zhongli, Qiqi, Yunjin, Xingqiu, Xiangling, Xiao, Hutao, Ganyu, Yelan, Keqing, Shenhe, Beidou, Ningguang, Yanfei, Yaoyao, Chongyun.
@@ -39,7 +38,7 @@ Credits for the data model source used against Genshin Impact:
 	- **Liyue**: Baizhu, Xinyan, Gaming, Xianyun, Lan Yan.
 	- **Inazuma**: Kirara, Mizuki.
 	- **Sumeru**: Kaveh, Sethos.
-	- **Fountaine**: Lynette, Freminet, Charlotte, Cheuvreuse, Sigewinne, Emilie.
-	- **Natlan**: Kinich, Mualani, Kachina, Xilonen, Chasca, Ororon, Mavuika, Citlali, Iansan, Varesa.
+	- **Fountaine**: Lynette, Freminet, Charlotte, Cheuvreuse, Sigewinne, Emilie, Escoffier,
+	- **Natlan**: Kinich, Mualani, Kachina, Xilonen, Chasca, Ororon, Mavuika, Citlali, Iansan, Varesa, Ifa.
 
 $ EOF.
