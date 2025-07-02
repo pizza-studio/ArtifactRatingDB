@@ -324,7 +324,9 @@ public final class RelicScoreCalculatorMK2 {
         self.baseURL = "https://gitlab.com/Dimbreath/turnbasedgamedata/-/raw/main/ExcelOutput/"
         self.endpoints = [
             "AvatarConfig": "AvatarConfig.json",
+            "AvatarConfigLD": "AvatarConfigLD.json",
             "AvatarRelicRecommend": "AvatarRelicRecommend.json",
+            "AvatarRelicRecommendLD": "AvatarRelicRecommendLD.json",
             "RelicMainAffixAvatarValue": "RelicMainAffixAvatarValue.json",
             "RelicSubAffixAvatarValue": "RelicSubAffixAvatarValue.json",
         ]
@@ -337,9 +339,14 @@ public final class RelicScoreCalculatorMK2 {
     public func process() async throws {
         print("Fetching configuration files...")
 
-        let characterMap: AvatarConfig = try await fetchData(fromEndpoint: endpoints["AvatarConfig"]!)
-        let relicRecommendMap: AvatarRelicRecommend =
-            try await fetchData(fromEndpoint: endpoints["AvatarRelicRecommend"]!)
+        var characterMap: AvatarConfig = try await fetchData(
+            fromEndpoint: endpoints["AvatarConfig"]!
+        ) + fetchData(fromEndpoint: endpoints["AvatarConfigLD"]!)
+        characterMap.sort { $0.avatarID < $1.avatarID }
+        var relicRecommendMap: AvatarRelicRecommend = try await fetchData(
+            fromEndpoint: endpoints["AvatarRelicRecommend"]!
+        ) + fetchData(fromEndpoint: endpoints["AvatarRelicRecommendLD"]!)
+        relicRecommendMap.sort { $0.avatarID < $1.avatarID }
         let mainRecommendMap: RelicMainAffixAvatarValue =
             try await fetchData(fromEndpoint: endpoints["RelicMainAffixAvatarValue"]!)
         let subRecommendMap: RelicSubAffixAvatarValue =
