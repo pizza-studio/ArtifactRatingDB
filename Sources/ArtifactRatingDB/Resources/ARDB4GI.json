@@ -5338,5 +5338,51 @@
       "SPRatioBase" : 0.35,
       "WaterAddedRatio" : 1
     }
+  },
+  "10000116" : {
+    "main" : {
+      "1" : {
+        "HPDelta" : 1
+      },
+      "2" : {
+        "AttackDelta" : 1
+      },
+      "3" : {
+        "AttackAddedRatio" : 1,
+        "DefenceAddedRatio" : 0,
+        "ElementalMastery" : 0.85,
+        "HPAddedRatio" : 0,
+        "SPRatioBase" : 0.45
+      },
+      "4" : {
+        "AttackAddedRatio" : 1,
+        "DefenceAddedRatio" : 0,
+        "ElementalMastery" : 0.85,
+        "HPAddedRatio" : 0,
+        "ThunderAddedRatio" : 0
+      },
+      "5" : {
+        "AttackAddedRatio" : 0.45,
+        "CriticalChanceBase" : 1,
+        "CriticalDamageBase" : 1,
+        "DefenceAddedRatio" : 0,
+        "ElementalMastery" : 0.45,
+        "HPAddedRatio" : 0
+      }
+    },
+    "max" : 10,
+    "weight" : {
+      "AttackAddedRatio" : 0.65,
+      "AttackDelta" : 0.45,
+      "CriticalChanceBase" : 1,
+      "CriticalDamageBase" : 1,
+      "DefenceAddedRatio" : 0,
+      "DefenceDelta" : 0,
+      "ElementalMastery" : 1,
+      "HPAddedRatio" : 0,
+      "HPDelta" : 0,
+      "SPRatioBase" : 0,
+      "ThunderAddedRatio" : 0
+    }
   }
 }
