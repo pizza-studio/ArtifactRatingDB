@@ -25,13 +25,14 @@ Credits for the data model source used against Genshin Impact:
 	- **Horizon**: Aloy.
 	- **Mondstadt**: Thoma, Sucrose, Kaeya, Amber, Lisa, Venti, Klee, Jean, Diluc, Fischl, Albedo, Mona, Rosaria, Diona, Mika, Razor, Noelle.
 	- **Liyue**: Zhongli, Qiqi, Yunjin, Xingqiu, Xiangling, Xiao, Hutao, Ganyu, Yelan, Keqing, Shenhe, Beidou, Ningguang, Yanfei, Yaoyao, Chongyun.
-	- **Inazuma**: Kunikuzushi (雷电国崩), Miko (八重神子), Raiden Ei (雷电影), Itto, Kazuha, Ayaka, Ayato, Yoimiya, Kokomi, Shinobu, Sara, Gorou, Heizou, Sayu, 
+	- **Inazuma**: Kunikuzushi (雷电国崩), Miko (八重神子), Raiden Ei (雷电影), Itto, Kazuha, Ayaka, Ayato, Yoimiya, Kokomi, Shinobu, Sara, Gorou, Heizou, Sayu.
 	- **Sumeru**: Cyno, Alhaitham, Nahida, Nilou, Tighnari, Dehya, Faruzan, Layla, Collei, Dori, Candace.
 	- **Fountaine**: Lyney.
 	- **Natlan**: Bennett.
 	- **Snezhnaya**: Tartaglia.
 - **Kamihimmel** ((c) 2023 and onwards Alice Workshop, MIT License): 
-	- **Fountaine**: Wriothesley, Neuvillette, Furina, Navia, Chiori, Clorinde.
+	- **Inazuma**: Chiori.
+	- **Fountaine**: Wriothesley, Neuvillette, Furina, Navia, Clorinde.
 	- **Snezhnaya**: Arlecchino.
 - **Shiki Suen** ((c) 2023 and onwards Pizza Studio, MIT License):
 	- **Protagonists**: Hotaru, Sora.
