@@ -12,8 +12,8 @@
         "CriticalChanceBase" : 0.1,
         "CriticalDamageBase" : 0.1,
         "DefenceAddedRatio" : 1,
-        "HealRatioBase" : 0,
         "HPAddedRatio" : 0.1,
+        "HealRatioBase" : 0,
         "StatusProbabilityBase" : 0.8
       },
       "4" : {
@@ -65,8 +65,8 @@
         "CriticalChanceBase" : 1,
         "CriticalDamageBase" : 1,
         "DefenceAddedRatio" : 0.1,
-        "HealRatioBase" : 0,
         "HPAddedRatio" : 0.1,
+        "HealRatioBase" : 0,
         "StatusProbabilityBase" : 0
       },
       "4" : {
@@ -118,8 +118,8 @@
         "CriticalChanceBase" : 1,
         "CriticalDamageBase" : 1,
         "DefenceAddedRatio" : 0.1,
-        "HealRatioBase" : 0,
         "HPAddedRatio" : 0.1,
+        "HealRatioBase" : 0,
         "StatusProbabilityBase" : 0.1
       },
       "4" : {
@@ -171,8 +171,8 @@
         "CriticalChanceBase" : 1,
         "CriticalDamageBase" : 1,
         "DefenceAddedRatio" : 0.1,
-        "HealRatioBase" : 0,
         "HPAddedRatio" : 0.1,
+        "HealRatioBase" : 0,
         "StatusProbabilityBase" : 0.8
       },
       "4" : {
@@ -224,8 +224,8 @@
         "CriticalChanceBase" : 0.1,
         "CriticalDamageBase" : 0.1,
         "DefenceAddedRatio" : 0.1,
-        "HealRatioBase" : 0,
         "HPAddedRatio" : 0.1,
+        "HealRatioBase" : 0,
         "StatusProbabilityBase" : 1
       },
       "4" : {
@@ -277,8 +277,8 @@
         "CriticalChanceBase" : 1,
         "CriticalDamageBase" : 1,
         "DefenceAddedRatio" : 0.1,
-        "HealRatioBase" : 0,
         "HPAddedRatio" : 0.1,
+        "HealRatioBase" : 0,
         "StatusProbabilityBase" : 0.8
       },
       "4" : {
@@ -330,8 +330,8 @@
         "CriticalChanceBase" : 1,
         "CriticalDamageBase" : 1,
         "DefenceAddedRatio" : 0.1,
-        "HealRatioBase" : 0,
         "HPAddedRatio" : 0.1,
+        "HealRatioBase" : 0,
         "StatusProbabilityBase" : 0
       },
       "4" : {
@@ -383,8 +383,8 @@
         "CriticalChanceBase" : 0.8,
         "CriticalDamageBase" : 0.8,
         "DefenceAddedRatio" : 0.4,
-        "HealRatioBase" : 0,
         "HPAddedRatio" : 0.4,
+        "HealRatioBase" : 0,
         "StatusProbabilityBase" : 0
       },
       "4" : {
@@ -436,8 +436,8 @@
         "CriticalChanceBase" : 1,
         "CriticalDamageBase" : 1,
         "DefenceAddedRatio" : 0.1,
-        "HealRatioBase" : 0,
         "HPAddedRatio" : 0.1,
+        "HealRatioBase" : 0,
         "StatusProbabilityBase" : 0
       },
       "4" : {
@@ -489,8 +489,8 @@
         "CriticalChanceBase" : 1,
         "CriticalDamageBase" : 1,
         "DefenceAddedRatio" : 0.1,
-        "HealRatioBase" : 0,
         "HPAddedRatio" : 0.1,
+        "HealRatioBase" : 0,
         "StatusProbabilityBase" : 0
       },
       "4" : {
@@ -542,8 +542,8 @@
         "CriticalChanceBase" : 1,
         "CriticalDamageBase" : 1,
         "DefenceAddedRatio" : 0.1,
-        "HealRatioBase" : 0,
         "HPAddedRatio" : 0.1,
+        "HealRatioBase" : 0,
         "StatusProbabilityBase" : 0
       },
       "4" : {
@@ -595,8 +595,8 @@
         "CriticalChanceBase" : 0,
         "CriticalDamageBase" : 1,
         "DefenceAddedRatio" : 0.4,
-        "HealRatioBase" : 0,
         "HPAddedRatio" : 0.4,
+        "HealRatioBase" : 0,
         "StatusProbabilityBase" : 0
       },
       "4" : {
@@ -648,8 +648,8 @@
         "CriticalChanceBase" : 1,
         "CriticalDamageBase" : 1,
         "DefenceAddedRatio" : 0.1,
-        "HealRatioBase" : 0,
         "HPAddedRatio" : 0.1,
+        "HealRatioBase" : 0,
         "StatusProbabilityBase" : 0
       },
       "4" : {
@@ -701,8 +701,8 @@
         "CriticalChanceBase" : 1,
         "CriticalDamageBase" : 1,
         "DefenceAddedRatio" : 0.1,
-        "HealRatioBase" : 0,
         "HPAddedRatio" : 0.1,
+        "HealRatioBase" : 0,
         "StatusProbabilityBase" : 0.1
       },
       "4" : {
@@ -754,8 +754,8 @@
         "CriticalChanceBase" : 0.1,
         "CriticalDamageBase" : 0.1,
         "DefenceAddedRatio" : 1,
-        "HealRatioBase" : 0,
         "HPAddedRatio" : 0.1,
+        "HealRatioBase" : 0,
         "StatusProbabilityBase" : 0.8
       },
       "4" : {
@@ -807,8 +807,8 @@
         "CriticalChanceBase" : 0,
         "CriticalDamageBase" : 0,
         "DefenceAddedRatio" : 0.1,
-        "HealRatioBase" : 1,
         "HPAddedRatio" : 1,
+        "HealRatioBase" : 1,
         "StatusProbabilityBase" : 0
       },
       "4" : {
@@ -860,8 +860,8 @@
         "CriticalChanceBase" : 0.8,
         "CriticalDamageBase" : 0.8,
         "DefenceAddedRatio" : 0.1,
-        "HealRatioBase" : 0,
         "HPAddedRatio" : 0.1,
+        "HealRatioBase" : 0,
         "StatusProbabilityBase" : 0.8
       },
       "4" : {
@@ -913,8 +913,8 @@
         "CriticalChanceBase" : 1,
         "CriticalDamageBase" : 1,
         "DefenceAddedRatio" : 0.1,
-        "HealRatioBase" : 0,
         "HPAddedRatio" : 0.1,
+        "HealRatioBase" : 0,
         "StatusProbabilityBase" : 0
       },
       "4" : {
@@ -966,8 +966,8 @@
         "CriticalChanceBase" : 0.1,
         "CriticalDamageBase" : 0.1,
         "DefenceAddedRatio" : 0.1,
-        "HealRatioBase" : 0,
         "HPAddedRatio" : 0.1,
+        "HealRatioBase" : 0,
         "StatusProbabilityBase" : 0.8
       },
       "4" : {
@@ -1019,8 +1019,8 @@
         "CriticalChanceBase" : 1,
         "CriticalDamageBase" : 1,
         "DefenceAddedRatio" : 0.1,
-        "HealRatioBase" : 0,
         "HPAddedRatio" : 0.1,
+        "HealRatioBase" : 0,
         "StatusProbabilityBase" : 0.1
       },
       "4" : {
@@ -1072,8 +1072,8 @@
         "CriticalChanceBase" : 0,
         "CriticalDamageBase" : 0,
         "DefenceAddedRatio" : 0.1,
-        "HealRatioBase" : 1,
         "HPAddedRatio" : 1,
+        "HealRatioBase" : 1,
         "StatusProbabilityBase" : 0
       },
       "4" : {
@@ -1125,8 +1125,8 @@
         "CriticalChanceBase" : 0.4,
         "CriticalDamageBase" : 0.4,
         "DefenceAddedRatio" : 0.1,
-        "HealRatioBase" : 0,
         "HPAddedRatio" : 0.1,
+        "HealRatioBase" : 0,
         "StatusProbabilityBase" : 0.6
       },
       "4" : {
@@ -1178,8 +1178,8 @@
         "CriticalChanceBase" : 1,
         "CriticalDamageBase" : 1,
         "DefenceAddedRatio" : 0.1,
-        "HealRatioBase" : 0,
         "HPAddedRatio" : 0.1,
+        "HealRatioBase" : 0,
         "StatusProbabilityBase" : 0
       },
       "4" : {
@@ -1231,8 +1231,8 @@
         "CriticalChanceBase" : 1,
         "CriticalDamageBase" : 1,
         "DefenceAddedRatio" : 0.1,
-        "HealRatioBase" : 0,
         "HPAddedRatio" : 0.1,
+        "HealRatioBase" : 0,
         "StatusProbabilityBase" : 0
       },
       "4" : {
@@ -1284,8 +1284,8 @@
         "CriticalChanceBase" : 0,
         "CriticalDamageBase" : 0,
         "DefenceAddedRatio" : 0.4,
-        "HealRatioBase" : 0,
         "HPAddedRatio" : 0.4,
+        "HealRatioBase" : 0,
         "StatusProbabilityBase" : 0
       },
       "4" : {
@@ -1337,8 +1337,8 @@
         "CriticalChanceBase" : 0,
         "CriticalDamageBase" : 0,
         "DefenceAddedRatio" : 0.4,
-        "HealRatioBase" : 1,
         "HPAddedRatio" : 0.4,
+        "HealRatioBase" : 1,
         "StatusProbabilityBase" : 0
       },
       "4" : {
@@ -1390,8 +1390,8 @@
         "CriticalChanceBase" : 1,
         "CriticalDamageBase" : 1,
         "DefenceAddedRatio" : 0.1,
-        "HealRatioBase" : 0,
         "HPAddedRatio" : 0.1,
+        "HealRatioBase" : 0,
         "StatusProbabilityBase" : 0
       },
       "4" : {
@@ -1443,8 +1443,8 @@
         "CriticalChanceBase" : 1,
         "CriticalDamageBase" : 1,
         "DefenceAddedRatio" : 0.1,
-        "HealRatioBase" : 0,
         "HPAddedRatio" : 1,
+        "HealRatioBase" : 0,
         "StatusProbabilityBase" : 0
       },
       "4" : {
@@ -1496,8 +1496,8 @@
         "CriticalChanceBase" : 1,
         "CriticalDamageBase" : 1,
         "DefenceAddedRatio" : 0.1,
-        "HealRatioBase" : 0,
         "HPAddedRatio" : 0.1,
+        "HealRatioBase" : 0,
         "StatusProbabilityBase" : 0
       },
       "4" : {
@@ -1549,8 +1549,8 @@
         "CriticalChanceBase" : 1,
         "CriticalDamageBase" : 1,
         "DefenceAddedRatio" : 0.1,
-        "HealRatioBase" : 0,
         "HPAddedRatio" : 0.1,
+        "HealRatioBase" : 0,
         "StatusProbabilityBase" : 0
       },
       "4" : {
@@ -1602,8 +1602,8 @@
         "CriticalChanceBase" : 0.4,
         "CriticalDamageBase" : 0.4,
         "DefenceAddedRatio" : 0.8,
-        "HealRatioBase" : 0,
         "HPAddedRatio" : 1,
+        "HealRatioBase" : 0,
         "StatusProbabilityBase" : 0
       },
       "4" : {
@@ -1655,8 +1655,8 @@
         "CriticalChanceBase" : 1,
         "CriticalDamageBase" : 1,
         "DefenceAddedRatio" : 0.1,
-        "HealRatioBase" : 0,
         "HPAddedRatio" : 0.1,
+        "HealRatioBase" : 0,
         "StatusProbabilityBase" : 0.1
       },
       "4" : {
@@ -1708,8 +1708,8 @@
         "CriticalChanceBase" : 0.1,
         "CriticalDamageBase" : 0.1,
         "DefenceAddedRatio" : 0.1,
-        "HealRatioBase" : 0,
         "HPAddedRatio" : 0.1,
+        "HealRatioBase" : 0,
         "StatusProbabilityBase" : 0.8
       },
       "4" : {
@@ -1761,8 +1761,8 @@
         "CriticalChanceBase" : 0,
         "CriticalDamageBase" : 0,
         "DefenceAddedRatio" : 0.1,
-        "HealRatioBase" : 1,
         "HPAddedRatio" : 1,
+        "HealRatioBase" : 1,
         "StatusProbabilityBase" : 0
       },
       "4" : {
@@ -1814,8 +1814,8 @@
         "CriticalChanceBase" : 0.9,
         "CriticalDamageBase" : 1,
         "DefenceAddedRatio" : 0.1,
-        "HealRatioBase" : 0,
         "HPAddedRatio" : 1,
+        "HealRatioBase" : 0,
         "StatusProbabilityBase" : 0
       },
       "4" : {
@@ -1867,8 +1867,8 @@
         "CriticalChanceBase" : 1,
         "CriticalDamageBase" : 1,
         "DefenceAddedRatio" : 0.1,
-        "HealRatioBase" : 0,
         "HPAddedRatio" : 0.1,
+        "HealRatioBase" : 0,
         "StatusProbabilityBase" : 0
       },
       "4" : {
@@ -1920,8 +1920,8 @@
         "CriticalChanceBase" : 1,
         "CriticalDamageBase" : 1,
         "DefenceAddedRatio" : 0.1,
-        "HealRatioBase" : 0,
         "HPAddedRatio" : 0.1,
+        "HealRatioBase" : 0,
         "StatusProbabilityBase" : 0
       },
       "4" : {
@@ -1973,8 +1973,8 @@
         "CriticalChanceBase" : 0.1,
         "CriticalDamageBase" : 0.1,
         "DefenceAddedRatio" : 0.6,
-        "HealRatioBase" : 0,
         "HPAddedRatio" : 0.6,
+        "HealRatioBase" : 0,
         "StatusProbabilityBase" : 0
       },
       "4" : {
@@ -2026,8 +2026,8 @@
         "CriticalChanceBase" : 0,
         "CriticalDamageBase" : 0,
         "DefenceAddedRatio" : 0.1,
-        "HealRatioBase" : 1,
         "HPAddedRatio" : 1,
+        "HealRatioBase" : 1,
         "StatusProbabilityBase" : 0
       },
       "4" : {
@@ -2079,8 +2079,8 @@
         "CriticalChanceBase" : 0.1,
         "CriticalDamageBase" : 0.1,
         "DefenceAddedRatio" : 0.1,
-        "HealRatioBase" : 0,
         "HPAddedRatio" : 0.1,
+        "HealRatioBase" : 0,
         "StatusProbabilityBase" : 1
       },
       "4" : {
@@ -2132,8 +2132,8 @@
         "CriticalChanceBase" : 1,
         "CriticalDamageBase" : 1,
         "DefenceAddedRatio" : 0.1,
-        "HealRatioBase" : 0,
         "HPAddedRatio" : 0.1,
+        "HealRatioBase" : 0,
         "StatusProbabilityBase" : 0
       },
       "4" : {
@@ -2185,8 +2185,8 @@
         "CriticalChanceBase" : 1,
         "CriticalDamageBase" : 1,
         "DefenceAddedRatio" : 0.1,
-        "HealRatioBase" : 0,
         "HPAddedRatio" : 0.1,
+        "HealRatioBase" : 0,
         "StatusProbabilityBase" : 0
       },
       "4" : {
@@ -2238,8 +2238,8 @@
         "CriticalChanceBase" : 0.1,
         "CriticalDamageBase" : 0.1,
         "DefenceAddedRatio" : 0.4,
-        "HealRatioBase" : 1,
         "HPAddedRatio" : 0.4,
+        "HealRatioBase" : 1,
         "StatusProbabilityBase" : 0
       },
       "4" : {
@@ -2291,8 +2291,8 @@
         "CriticalChanceBase" : 1,
         "CriticalDamageBase" : 1,
         "DefenceAddedRatio" : 0.1,
-        "HealRatioBase" : 0,
         "HPAddedRatio" : 0.1,
+        "HealRatioBase" : 0,
         "StatusProbabilityBase" : 0
       },
       "4" : {
@@ -2344,8 +2344,8 @@
         "CriticalChanceBase" : 1,
         "CriticalDamageBase" : 1,
         "DefenceAddedRatio" : 0.1,
-        "HealRatioBase" : 0,
         "HPAddedRatio" : 0.1,
+        "HealRatioBase" : 0,
         "StatusProbabilityBase" : 0
       },
       "4" : {
@@ -2397,8 +2397,8 @@
         "CriticalChanceBase" : 0.1,
         "CriticalDamageBase" : 0.1,
         "DefenceAddedRatio" : 0.4,
-        "HealRatioBase" : 0,
         "HPAddedRatio" : 0.4,
+        "HealRatioBase" : 0,
         "StatusProbabilityBase" : 1
       },
       "4" : {
@@ -2450,8 +2450,8 @@
         "CriticalChanceBase" : 0.1,
         "CriticalDamageBase" : 0.1,
         "DefenceAddedRatio" : 0.4,
-        "HealRatioBase" : 1,
         "HPAddedRatio" : 0.8,
+        "HealRatioBase" : 1,
         "StatusProbabilityBase" : 0.1
       },
       "4" : {
@@ -2503,8 +2503,8 @@
         "CriticalChanceBase" : 1,
         "CriticalDamageBase" : 1,
         "DefenceAddedRatio" : 0.1,
-        "HealRatioBase" : 0,
         "HPAddedRatio" : 0.1,
+        "HealRatioBase" : 0,
         "StatusProbabilityBase" : 0
       },
       "4" : {
@@ -2556,8 +2556,8 @@
         "CriticalChanceBase" : 0,
         "CriticalDamageBase" : 0,
         "DefenceAddedRatio" : 0.4,
-        "HealRatioBase" : 0,
         "HPAddedRatio" : 0.4,
+        "HealRatioBase" : 0,
         "StatusProbabilityBase" : 0
       },
       "4" : {
@@ -2609,8 +2609,8 @@
         "CriticalChanceBase" : 0.9,
         "CriticalDamageBase" : 0.9,
         "DefenceAddedRatio" : 1,
-        "HealRatioBase" : 0,
         "HPAddedRatio" : 0.1,
+        "HealRatioBase" : 0,
         "StatusProbabilityBase" : 0.1
       },
       "4" : {
@@ -2662,8 +2662,8 @@
         "CriticalChanceBase" : 1,
         "CriticalDamageBase" : 1,
         "DefenceAddedRatio" : 0.1,
-        "HealRatioBase" : 0,
         "HPAddedRatio" : 0.1,
+        "HealRatioBase" : 0,
         "StatusProbabilityBase" : 0.1
       },
       "4" : {
@@ -2715,8 +2715,8 @@
         "CriticalChanceBase" : 0,
         "CriticalDamageBase" : 1,
         "DefenceAddedRatio" : 0.4,
-        "HealRatioBase" : 0,
         "HPAddedRatio" : 0.4,
+        "HealRatioBase" : 0,
         "StatusProbabilityBase" : 0
       },
       "4" : {
@@ -2767,8 +2767,8 @@
         "CriticalChanceBase" : 0.1,
         "CriticalDamageBase" : 0.1,
         "DefenceAddedRatio" : 0.1,
-        "HealRatioBase" : 0,
         "HPAddedRatio" : 0.1,
+        "HealRatioBase" : 0,
         "StatusProbabilityBase" : 1
       },
       "4" : {
@@ -2820,8 +2820,8 @@
         "CriticalChanceBase" : 1,
         "CriticalDamageBase" : 1,
         "DefenceAddedRatio" : 0.1,
-        "HealRatioBase" : 0,
         "HPAddedRatio" : 0.1,
+        "HealRatioBase" : 0,
         "StatusProbabilityBase" : 0.1
       },
       "4" : {
@@ -2873,8 +2873,8 @@
         "CriticalChanceBase" : 0,
         "CriticalDamageBase" : 0,
         "DefenceAddedRatio" : 0.4,
-        "HealRatioBase" : 0,
         "HPAddedRatio" : 0.4,
+        "HealRatioBase" : 0,
         "StatusProbabilityBase" : 0
       },
       "4" : {
@@ -2926,8 +2926,8 @@
         "CriticalChanceBase" : 0.1,
         "CriticalDamageBase" : 0.1,
         "DefenceAddedRatio" : 0.1,
-        "HealRatioBase" : 0,
         "HPAddedRatio" : 0.1,
+        "HealRatioBase" : 0,
         "StatusProbabilityBase" : 0
       },
       "4" : {
@@ -2979,8 +2979,8 @@
         "CriticalChanceBase" : 1,
         "CriticalDamageBase" : 1,
         "DefenceAddedRatio" : 0.1,
-        "HealRatioBase" : 0,
         "HPAddedRatio" : 0.1,
+        "HealRatioBase" : 0,
         "StatusProbabilityBase" : 0.1
       },
       "4" : {
@@ -3032,8 +3032,8 @@
         "CriticalChanceBase" : 0,
         "CriticalDamageBase" : 1,
         "DefenceAddedRatio" : 0.4,
-        "HealRatioBase" : 0,
         "HPAddedRatio" : 0.4,
+        "HealRatioBase" : 0,
         "StatusProbabilityBase" : 0
       },
       "4" : {
@@ -3084,8 +3084,8 @@
         "CriticalChanceBase" : 1,
         "CriticalDamageBase" : 1,
         "DefenceAddedRatio" : 0.1,
-        "HealRatioBase" : 0,
         "HPAddedRatio" : 0.1,
+        "HealRatioBase" : 0,
         "StatusProbabilityBase" : 0
       },
       "4" : {
@@ -3137,8 +3137,8 @@
         "CriticalChanceBase" : 0.6,
         "CriticalDamageBase" : 0.6,
         "DefenceAddedRatio" : 0.1,
-        "HealRatioBase" : 0,
         "HPAddedRatio" : 0.1,
+        "HealRatioBase" : 0,
         "StatusProbabilityBase" : 0
       },
       "4" : {
@@ -3190,8 +3190,8 @@
         "CriticalChanceBase" : 0.1,
         "CriticalDamageBase" : 0.1,
         "DefenceAddedRatio" : 0.1,
-        "HealRatioBase" : 0,
         "HPAddedRatio" : 0.1,
+        "HealRatioBase" : 0,
         "StatusProbabilityBase" : 0
       },
       "4" : {
@@ -3243,8 +3243,8 @@
         "CriticalChanceBase" : 1,
         "CriticalDamageBase" : 1,
         "DefenceAddedRatio" : 0.1,
-        "HealRatioBase" : 0,
         "HPAddedRatio" : 0.1,
+        "HealRatioBase" : 0,
         "StatusProbabilityBase" : 0
       },
       "4" : {
@@ -3296,8 +3296,8 @@
         "CriticalChanceBase" : 1,
         "CriticalDamageBase" : 1,
         "DefenceAddedRatio" : 0.1,
-        "HealRatioBase" : 0,
         "HPAddedRatio" : 0.1,
+        "HealRatioBase" : 0,
         "StatusProbabilityBase" : 0
       },
       "4" : {
@@ -3349,8 +3349,8 @@
         "CriticalChanceBase" : 1,
         "CriticalDamageBase" : 1,
         "DefenceAddedRatio" : 0.1,
-        "HealRatioBase" : 0,
         "HPAddedRatio" : 1,
+        "HealRatioBase" : 0,
         "StatusProbabilityBase" : 0
       },
       "4" : {
@@ -3402,8 +3402,8 @@
         "CriticalChanceBase" : 0.9,
         "CriticalDamageBase" : 1,
         "DefenceAddedRatio" : 0,
-        "HealRatioBase" : 0,
         "HPAddedRatio" : 1,
+        "HealRatioBase" : 0,
         "StatusProbabilityBase" : 0
       },
       "4" : {
@@ -3455,8 +3455,8 @@
         "CriticalChanceBase" : 1,
         "CriticalDamageBase" : 1,
         "DefenceAddedRatio" : 0.1,
-        "HealRatioBase" : 0,
         "HPAddedRatio" : 0.1,
+        "HealRatioBase" : 0,
         "StatusProbabilityBase" : 0
       },
       "4" : {
@@ -3508,8 +3508,8 @@
         "CriticalChanceBase" : 0.6,
         "CriticalDamageBase" : 0.6,
         "DefenceAddedRatio" : 0.4,
-        "HealRatioBase" : 0,
         "HPAddedRatio" : 0.4,
+        "HealRatioBase" : 0,
         "StatusProbabilityBase" : 0.6
       },
       "4" : {
@@ -3561,8 +3561,8 @@
         "CriticalChanceBase" : 1,
         "CriticalDamageBase" : 1,
         "DefenceAddedRatio" : 0.1,
-        "HealRatioBase" : 0,
         "HPAddedRatio" : 1,
+        "HealRatioBase" : 0,
         "StatusProbabilityBase" : 0
       },
       "4" : {
@@ -3614,8 +3614,8 @@
         "CriticalChanceBase" : 1,
         "CriticalDamageBase" : 1,
         "DefenceAddedRatio" : 0.1,
-        "HealRatioBase" : 0,
         "HPAddedRatio" : 0.1,
+        "HealRatioBase" : 0,
         "StatusProbabilityBase" : 0
       },
       "4" : {
@@ -3667,8 +3667,8 @@
         "CriticalChanceBase" : 0,
         "CriticalDamageBase" : 0.6,
         "DefenceAddedRatio" : 0.1,
-        "HealRatioBase" : 1,
         "HPAddedRatio" : 1,
+        "HealRatioBase" : 1,
         "StatusProbabilityBase" : 0
       },
       "4" : {
@@ -3720,8 +3720,8 @@
         "CriticalChanceBase" : 0,
         "CriticalDamageBase" : 0,
         "DefenceAddedRatio" : 0.1,
-        "HealRatioBase" : 0,
         "HPAddedRatio" : 0.1,
+        "HealRatioBase" : 0,
         "StatusProbabilityBase" : 1
       },
       "4" : {
@@ -3773,8 +3773,8 @@
         "CriticalChanceBase" : 0,
         "CriticalDamageBase" : 0.8,
         "DefenceAddedRatio" : 0.1,
-        "HealRatioBase" : 0,
         "HPAddedRatio" : 0.1,
+        "HealRatioBase" : 0,
         "StatusProbabilityBase" : 0
       },
       "4" : {
@@ -3826,8 +3826,8 @@
         "CriticalChanceBase" : 1,
         "CriticalDamageBase" : 1,
         "DefenceAddedRatio" : 0.1,
-        "HealRatioBase" : 0,
         "HPAddedRatio" : 0.1,
+        "HealRatioBase" : 0,
         "StatusProbabilityBase" : 0
       },
       "4" : {
@@ -3879,8 +3879,8 @@
         "CriticalChanceBase" : 1,
         "CriticalDamageBase" : 1,
         "DefenceAddedRatio" : 0.1,
-        "HealRatioBase" : 0,
         "HPAddedRatio" : 0.1,
+        "HealRatioBase" : 0,
         "StatusProbabilityBase" : 0
       },
       "4" : {
@@ -3932,8 +3932,8 @@
         "CriticalChanceBase" : 0.1,
         "CriticalDamageBase" : 0.1,
         "DefenceAddedRatio" : 1,
-        "HealRatioBase" : 0,
         "HPAddedRatio" : 0.1,
+        "HealRatioBase" : 0,
         "StatusProbabilityBase" : 0.6
       },
       "4" : {
@@ -3985,8 +3985,8 @@
         "CriticalChanceBase" : 0.1,
         "CriticalDamageBase" : 0.1,
         "DefenceAddedRatio" : 1,
-        "HealRatioBase" : 0,
         "HPAddedRatio" : 0.1,
+        "HealRatioBase" : 0,
         "StatusProbabilityBase" : 0.6
       },
       "4" : {
@@ -4038,8 +4038,8 @@
         "CriticalChanceBase" : 0.1,
         "CriticalDamageBase" : 0.1,
         "DefenceAddedRatio" : 0.4,
-        "HealRatioBase" : 0,
         "HPAddedRatio" : 0.4,
+        "HealRatioBase" : 0,
         "StatusProbabilityBase" : 0.1
       },
       "4" : {
@@ -4091,8 +4091,8 @@
         "CriticalChanceBase" : 0.1,
         "CriticalDamageBase" : 0.1,
         "DefenceAddedRatio" : 0.4,
-        "HealRatioBase" : 0,
         "HPAddedRatio" : 0.4,
+        "HealRatioBase" : 0,
         "StatusProbabilityBase" : 0.1
       },
       "4" : {
@@ -4144,8 +4144,8 @@
         "CriticalChanceBase" : 0,
         "CriticalDamageBase" : 1,
         "DefenceAddedRatio" : 0.1,
-        "HealRatioBase" : 0,
         "HPAddedRatio" : 0.1,
+        "HealRatioBase" : 0,
         "StatusProbabilityBase" : 0
       },
       "4" : {
@@ -4197,8 +4197,8 @@
         "CriticalChanceBase" : 0,
         "CriticalDamageBase" : 1,
         "DefenceAddedRatio" : 0.1,
-        "HealRatioBase" : 0,
         "HPAddedRatio" : 0.1,
+        "HealRatioBase" : 0,
         "StatusProbabilityBase" : 0
       },
       "4" : {
