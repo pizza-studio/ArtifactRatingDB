@@ -43,6 +43,7 @@ Credits for the data model source used against Genshin Impact:
 	- **Fountaine**: Lynette, Freminet, Charlotte, Cheuvreuse, Sigewinne, Emilie, Escoffier,
 	- **Natlan**: Kinich, Mualani, Kachina, Xilonen, Chasca, Ororon, Mavuika, Citlali, Iansan, Varesa, Ifa.
 	- **Snezhnaya**: Ineffa.
-    - **To be categorized**: Skirk.
+  - **Nod-Krai**: Lauma, Flins, Aino.
+  - **To be categorized**: Skirk.
 
 $ EOF.
