@@ -35,7 +35,7 @@ Credits for the data model source used against Genshin Impact:
 	- **Fountaine**: Wriothesley, Neuvillette, Furina, Navia, Clorinde.
 	- **Snezhnaya**: Arlecchino.
 - **Shiki Suen** ((c) 2023 and onwards Pizza Studio, MIT License):
-	- **Protagonists**: Hotaru, Sora.
+	- **Protagonists**: Hotaru, Sora, Manekin, Manekina.
 	- **Mondstadt**: Eula, Barbara, Dahlia.
 	- **Liyue**: Baizhu, Xinyan, Gaming, Xianyun, Lan Yan.
 	- **Inazuma**: Kirara, Mizuki.
