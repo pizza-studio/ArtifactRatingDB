@@ -58,14 +58,16 @@ extension URLSession {
 // MARK: - AvatarBaseType
 
 public enum AvatarBaseType: String, Codable, Hashable, Sendable {
-    case knight = "Knight"
-    case mage = "Mage"
-    case memory = "Memory"
-    case priest = "Priest"
-    case rogue = "Rogue"
-    case shaman = "Shaman"
-    case warlock = "Warlock"
-    case warrior = "Warrior"
+    case none = "None"
+    case destruction = "Warrior"
+    case hunt = "Rogue"
+    case erudition = "Mage"
+    case harmony = "Shaman"
+    case nihility = "Warlock"
+    case preservation = "Knight"
+    case abundance = "Priest"
+    case remembrance = "Memory"
+    case elation = "Elation"
 }
 
 // MARK: - DamageType
