@@ -1,6 +1,6 @@
 # ArtifactRatingDB
 
-The artifact rating model database used by Pizza Helper to rate artifacts used in Genshin Impact and Star Rail.
+The artifact rating model database used by **The Latte Helper** (formerly `The Pizza Helper`) to rate artifacts used in Genshin Impact and Star Rail.
 
 ## How these data work?
 
@@ -23,7 +23,7 @@ Credits for the data model source used against Genshin Impact:
 
 - **Wu Xiaoyun** ((c) 2023 and onwards Alice Workshop, MIT License): 
 	- **Horizon**: Aloy.
-	- **Mondstadt**: Durin, Thoma, Sucrose, Kaeya, Amber, Lisa, Venti, Klee, Jean, Diluc, Fischl, Albedo, Mona, Rosaria, Diona, Mika, Razor, Noelle.
+	- **Mondstadt**: Thoma, Sucrose, Kaeya, Amber, Lisa, Venti, Klee, Jean, Diluc, Fischl, Albedo, Mona, Rosaria, Diona, Mika, Razor, Noelle.
       - Note: These are data as of `Genshin: Song of the Wekin' Moon` v6.2.
       - Since v6.3 the following characters are having their data models changed: Razor, Venti, Klee, Fischl, Albedo, Mona, Sucrose.
       - This repository will update if their artifact rating models need correspond updates.
@@ -39,14 +39,14 @@ Credits for the data model source used against Genshin Impact:
 	- **Snezhnaya**: Arlecchino.
 - **Shiki Suen** ((c) 2023 and onwards Pizza Studio, MIT License):
 	- **Protagonists**: Hotaru, Sora, Manekin, Manekina.
-	- **Mondstadt**: Eula, Barbara, Dahlia, Varka.
+	- **Mondstadt**: Eula, Barbara, Dahlia (**not** Constance), Durin, Varka.
 	- **Liyue**: Baizhu, Xinyan, Gaming, Xianyun, Lan Yan, Zibai.
 	- **Inazuma**: Kirara, Mizuki.
 	- **Sumeru**: Kaveh, Sethos, Nefer.
-	- **Fountaine**: Lynette, Freminet, Charlotte, Cheuvreuse, Sigewinne, Emilie, Escoffier,
+	- **Fountaine**: Lynette, Freminet, Charlotte, Chevreuse, Sigewinne, Emilie, Escoffier,
 	- **Natlan**: Kinich, Mualani, Kachina, Xilonen, Chasca, Ororon, Mavuika, Citlali, Iansan, Varesa, Ifa.
 	- **Snezhnaya**: Ineffa.
-  - **Nod-Krai**: Lauma, Flins, Aino, Jahoda, Columbina, Illuga.
-  - **To be categorized**: Skirk.
+	- **Nod-Krai**: Lauma, Flins, Aino, Jahoda, Columbina, Illuga.
+	- **To be categorized**: Skirk.
 
 $ EOF.
