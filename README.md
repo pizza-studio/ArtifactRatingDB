@@ -49,4 +49,6 @@ Credits for the data model source used against Genshin Impact:
 	- **Nod-Krai**: Lauma, Flins, Aino, Jahoda, Columbina, Illuga.
 	- **To be categorized**: Skirk.
 
+> Note: Kunikuzushi == The Wanderer; Miko == Yae Miko; Raiden Ei == Raiden Shogun.
+
 $ EOF.
