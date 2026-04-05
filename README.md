@@ -28,7 +28,7 @@ Credits for the data model source used against Genshin Impact:
       - Since v6.3 the following characters are having their data models changed: Razor, Venti, Klee, Fischl, Albedo, Mona, Sucrose.
       - This repository will update if their artifact rating models need correspond updates.
 	- **Liyue**: Zhongli, Qiqi, Yunjin, Xingqiu, Xiangling, Xiao, Hutao, Ganyu, Yelan, Keqing, Shenhe, Beidou, Ningguang, Yanfei, Yaoyao, Chongyun.
-	- **Inazuma**: Kunikuzushi (雷电国崩), Miko (八重神子), Raiden Ei (雷电影), Itto, Kazuha, Ayaka, Ayato, Yoimiya, Kokomi, Shinobu, Sara, Gorou, Heizou, Sayu.
+	- **Inazuma**: Kunikuzushi (雷电国崩), Miko (八重神子), Itto, Kazuha, Ayaka, Ayato, Yoimiya, Kokomi, Shinobu, Sara, Gorou, Heizou, Sayu.
 	- **Sumeru**: Cyno, Alhaitham, Nahida, Nilou, Tighnari, Dehya, Faruzan, Layla, Collei, Dori, Candace.
 	- **Fountaine**: Lyney.
 	- **Natlan**: Bennett.
@@ -41,7 +41,7 @@ Credits for the data model source used against Genshin Impact:
 	- **Protagonists**: Hotaru, Sora, Manekin, Manekina.
 	- **Mondstadt**: Eula, Barbara, Dahlia (**not** Constance), Durin, Varka.
 	- **Liyue**: Baizhu, Xinyan, Gaming, Xianyun, Lan Yan, Zibai.
-	- **Inazuma**: Kirara, Mizuki.
+	- **Inazuma**: Raiden Ei (雷电影), Kirara, Mizuki.
 	- **Sumeru**: Kaveh, Sethos, Nefer.
 	- **Fountaine**: Lynette, Freminet, Charlotte, Chevreuse, Sigewinne, Emilie, Escoffier,
 	- **Natlan**: Kinich, Mualani, Kachina, Xilonen, Chasca, Ororon, Mavuika, Citlali, Iansan, Varesa, Ifa.
