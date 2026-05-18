@@ -6641,6 +6641,52 @@
       "WindAddedRatio" : 1
     }
   },
+  "10000129" : {
+    "main" : {
+      "1" : {
+        "HPDelta" : 1
+      },
+      "2" : {
+        "AttackDelta" : 1
+      },
+      "3" : {
+        "AttackAddedRatio" : 0.85,
+        "DefenceAddedRatio" : 0,
+        "ElementalMastery" : 0,
+        "HPAddedRatio" : 0,
+        "SPRatioBase" : 0
+      },
+      "4" : {
+        "AttackAddedRatio" : 0.85,
+        "DefenceAddedRatio" : 0,
+        "ElementalMastery" : 0,
+        "HPAddedRatio" : 0,
+        "IceAddedRatio" : 1
+      },
+      "5" : {
+        "AttackAddedRatio" : 0.85,
+        "CriticalChanceBase" : 1,
+        "CriticalDamageBase" : 1,
+        "DefenceAddedRatio" : 0,
+        "ElementalMastery" : 0,
+        "HPAddedRatio" : 0
+      }
+    },
+    "max" : 10,
+    "weight" : {
+      "AttackAddedRatio" : 0.85,
+      "AttackDelta" : 0.55,
+      "CriticalChanceBase" : 1,
+      "CriticalDamageBase" : 1,
+      "DefenceAddedRatio" : 0,
+      "DefenceDelta" : 0,
+      "ElementalMastery" : 0,
+      "HPAddedRatio" : 0,
+      "HPDelta" : 0,
+      "IceAddedRatio" : 1,
+      "SPRatioBase" : 0
+    }
+  },
   "10000130" : {
     "main" : {
       "1" : {
@@ -6681,6 +6727,98 @@
       "ElementalMastery" : 0.55,
       "RockAddedRatio" : 0.5,
       "SPRatioBase" : 0.75
+    }
+  },
+  "10000131" : {
+    "main" : {
+      "1" : {
+        "HPDelta" : 1
+      },
+      "2" : {
+        "AttackDelta" : 1
+      },
+      "3" : {
+        "AttackAddedRatio" : 1,
+        "DefenceAddedRatio" : 0,
+        "ElementalMastery" : 0,
+        "HPAddedRatio" : 0,
+        "SPRatioBase" : 0.35
+      },
+      "4" : {
+        "AttackAddedRatio" : 1,
+        "DefenceAddedRatio" : 0,
+        "ElementalMastery" : 0,
+        "HPAddedRatio" : 0,
+        "FireAddedRatio" : 0.75
+      },
+      "5" : {
+        "AttackAddedRatio" : 1,
+        "CriticalChanceBase" : 0.85,
+        "CriticalDamageBase" : 0.85,
+        "DefenceAddedRatio" : 0,
+        "ElementalMastery" : 0,
+        "HPAddedRatio" : 0
+      }
+    },
+    "max" : 10,
+    "weight" : {
+      "AttackAddedRatio" : 1,
+      "AttackDelta" : 0.55,
+      "CriticalChanceBase" : 0.85,
+      "CriticalDamageBase" : 0.85,
+      "DefenceAddedRatio" : 0,
+      "DefenceDelta" : 0,
+      "ElementalMastery" : 0,
+      "FireAddedRatio" : 0.75,
+      "HPAddedRatio" : 0,
+      "HPDelta" : 0,
+      "SPRatioBase" : 0.35
+    }
+  },
+  "10000132" : {
+    "main" : {
+      "1" : {
+        "HPDelta" : 1
+      },
+      "2" : {
+        "AttackDelta" : 1
+      },
+      "3" : {
+        "AttackAddedRatio" : 0.75,
+        "DefenceAddedRatio" : 0,
+        "ElementalMastery" : 0.55,
+        "HPAddedRatio" : 0,
+        "SPRatioBase" : 0.35
+      },
+      "4" : {
+        "AttackAddedRatio" : 0.75,
+        "DefenceAddedRatio" : 0,
+        "ElementalMastery" : 0.55,
+        "HPAddedRatio" : 0,
+        "WindAddedRatio" : 0.75
+      },
+      "5" : {
+        "AttackAddedRatio" : 0.75,
+        "CriticalChanceBase" : 0.85,
+        "CriticalDamageBase" : 0.85,
+        "DefenceAddedRatio" : 0,
+        "ElementalMastery" : 0.55,
+        "HPAddedRatio" : 0
+      }
+    },
+    "max" : 10,
+    "weight" : {
+      "AttackAddedRatio" : 0.75,
+      "AttackDelta" : 0.5,
+      "CriticalChanceBase" : 0.85,
+      "CriticalDamageBase" : 0.85,
+      "DefenceAddedRatio" : 0,
+      "DefenceDelta" : 0,
+      "ElementalMastery" : 0.55,
+      "HPAddedRatio" : 0,
+      "HPDelta" : 0,
+      "SPRatioBase" : 0.35,
+      "WindAddedRatio" : 0.75
     }
   }
 }
