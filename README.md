@@ -46,7 +46,7 @@ Credits for the data model source used against Genshin Impact:
     - **Sumeru**: Kaveh, Sethos, Nefer.
     - **Fountaine**: Lynette, Freminet, Charlotte, Chevreuse, Sigewinne, Emilie, Escoffier, Sandrone.
     - **Natlan**: Kinich, Mualani, Kachina, Xilonen, Chasca, Ororon, Mavuika, Citlali, Iansan, Varesa, Ifa.
-    - **Snezhnaya**: (To be filled in the future.)
+    - **Snezhnaya**: Odette, Alyosha.
     - **Nod-Krai**: Linnea, Ineffa, Lauma, Flins, Aino, Jahoda, Columbina, Illuga.
     - **To be categorized**: Skirk.
 
