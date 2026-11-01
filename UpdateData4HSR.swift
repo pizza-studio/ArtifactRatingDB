@@ -404,7 +404,7 @@ public final class RelicScoreCalculatorMK2 {
 
     public init() {
         self.scoreMap = [:]
-        self.baseURL = "https://gitlab.com/Dimbreath/turnbasedgamedata/-/raw/main/ExcelOutput/"
+        self.baseURL = "https://raw.githubusercontent.com/DimbreathBot/TurnBasedGameData/main/ExcelOutput/"
         self.endpoints = [
             "AvatarConfig": "AvatarConfig.json",
             "AvatarConfigLD": "AvatarConfigLD.json",

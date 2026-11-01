@@ -141,7 +141,7 @@ extension URLSession {
 // MARK: - Update CountDB for Genshin Impact.
 
 let rawDataURLStr = """
-https://gitlab.com/Dimbreath/AnimeGameData/-/raw/master/ExcelBinOutput/ReliquaryAffixExcelConfigData.json
+https://raw.githubusercontent.com/DimbreathBot/AnimeGameData/main/ExcelBinOutput/ReliquaryAffixExcelConfigData.json
 """
 
 let rawDataURL = URL(string: rawDataURLStr)!
