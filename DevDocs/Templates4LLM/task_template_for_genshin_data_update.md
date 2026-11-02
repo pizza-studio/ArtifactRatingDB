@@ -15,7 +15,7 @@ for (character, cid) in chars {
 }
 ```
 
-生成圣遗物评分模型数据之前，可以先熟悉既有的（原神 $(ver - 1) 为止的角色）的圣遗物评分模型特征。这可以帮助你让你生成的新角色的圣遗物评分模型保持统一的行为特征。
+生成圣遗物评分模型数据之前，可以先熟悉既有的（原神 ``$(ver - 1)` -> `$(ver - 0.1) 或 $(ver - 1) 也就是上一個版本为止的角色）的圣遗物评分模型特征。这可以帮助你让你生成的新角色的圣遗物评分模型保持统一的行为特征。
 
 必读参考资料：
 - `PizzaHelperUnited/Packages/EnkaKit/Sources/EnkaKit/`（尤其是 `Packages/EnkaKit/Sources/EnkaKit/EnkaKitBackend/ArtifactRating`）可以用来帮助你了解拿铁小助手的圣遗物评分系统是怎样同时服务 星穹铁道 与 原神 的角色的。
