@@ -16,9 +16,17 @@ jobs:
             - name: Set up Swift
               uses: SwiftyLab/setup-swift@latest
 
-            - name: Update Data
+            - name: Update Data (Attempt 1/2)
               id: compare_shas
+              continue-on-error: true
               run: |
+                swift ./UpdateData4HSR.swift
+
+            - name: Reset and retry (Attempt 2/2)
+              if: steps.compare_shas.outcome == 'failure'
+              run: |
+                echo "::warning::Attempt 1 failed (script crash or network error). Resetting the worktree and retrying."
+                git checkout -- .
                 swift ./UpdateData4HSR.swift
 
             - name: Create Pull Request
